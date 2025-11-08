@@ -269,28 +269,3 @@ If you have any questions or need help, feel free to:
 Made with 💙 by [Mohamed Abd El Wahab](https://github.com/MohamedAbdElwahabOka)
 
 </div>
-```
-
----
-
-## إضافات مهمة:
-
-1. **أنشئ مجلد screenshots** وأضف صور للمشروع:
-```
-screenshots/
-├── closed.png
-├── no-selection.png
-├── 25-percent.png
-├── 50-percent.png
-├── 75-percent.png
-├── full.png
-└── gradient-overview.png
-```
-
-2. **أنشئ ملف LICENSE**:
-```
-MIT License
-
-Copyright (c) 2024 Mohamed Abd El Wahab
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
